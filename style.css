@@ -1,0 +1,32 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  width: 1300px;
+}
+
+.img-height {
+  height: 700px;
+
+
+}
+
+.slider {
+  margin: 50px;
+}
+
+.course-item {
+  background: #FFFFFF;
+  border: 1px solid #E8E8E8;
+  border-radius: 5px;
+}
+
+.course-item p {
+  color: #777777;
+  font-size: 14px;
+}
+.course-item h3 {
+  color: #289BDE;
+  
+}
